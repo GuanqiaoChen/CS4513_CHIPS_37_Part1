@@ -1,3 +1,4 @@
+# Second branch for PR approval
 class WordGuesserGame
   attr_accessor :word, :guesses, :wrong_guesses
 
